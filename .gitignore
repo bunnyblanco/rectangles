@@ -64,6 +64,5 @@ target/
 #Emacs auto-save
 *~
 
-#Processed and raw data
+#Processed data
 process/
-raw/
