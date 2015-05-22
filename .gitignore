@@ -55,3 +55,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#Latex documents
+*.aux
+*.log
+*.dvi
+
+#Emacs auto-save
+*~
+
+#Processed and raw data
+process/
+raw/
